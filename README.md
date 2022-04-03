@@ -1,6 +1,7 @@
 # Blockchain
-This is an simple blockchain application using spring-framework.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/bot-alert/Digital-Canteen)
+
+This is an simple blockchain application using spring-framework.
 
 ## Features
 
