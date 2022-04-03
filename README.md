@@ -15,9 +15,8 @@ This is an simple blockchain application using spring-framework.
 
 ## API
 
-![alt text](![alt text](https://raw.githubusercontent.com/bot-alert/blockchain/main/imagesForReadme/api.png)
+(![alt text](https://raw.githubusercontent.com/bot-alert/blockchain/main/imagesForReadme/api.png)
 
 ## Visulation of chain
-
-![alt text](![alt text](https://raw.githubusercontent.com/bot-alert/blockchain/main/imagesForReadme/blocks.png)
+(![alt text](https://raw.githubusercontent.com/bot-alert/blockchain/main/imagesForReadme/blocks.png)
 
